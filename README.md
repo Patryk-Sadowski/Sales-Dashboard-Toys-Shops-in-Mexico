@@ -11,7 +11,7 @@ The Sales Dashboard | Toys-Shops-in-Mexico provides several key insights:
 - The most profitable product category is toys. Therefore, the most profitable product from this category is Lego Bricks
 - No seasonality in sales was detected. Throughout the entire analysis period, sales were at a relatively similar level
 - The profit was generated the highest in 2023-Q2. Interestingly, this corresponds to the lowest margin % in the analyzed period. This confirms the assumptions that stores are pursuing a low price policy to increase sales volume
-- About 70% of orders each quarter are between $0 and $20
+- About 70% of all orders each quarter are between $0 and $20
 - Considering the location, the most profitable is Downtown and the least is Airport
 
 ## How to use
